@@ -57,7 +57,7 @@ I2C: 21 (SDA), 22 (SCL)
 Clone the repository
 
 bash
-git clone https://github.com/your-username/micromouse.git
+git clone https://github.com/IslamNagi14/micromouse.git
 cd micromouse
 Install Arduino IDE with ESP32 support
 
